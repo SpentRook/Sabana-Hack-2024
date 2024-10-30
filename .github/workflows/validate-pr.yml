@@ -1,0 +1,56 @@
+name: Validate Pull Request
+
+on:
+  pull_request:
+    types: [opened, edited, reopened]
+    branches:
+      - main
+
+jobs:
+  validate-checklist:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check PR Checklist
+      id: checklist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        # Extrae el cuerpo del PR
+        PR_BODY=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+                  -H "Accept: application/vnd.github.v3+json" \
+                  "${{ github.event.pull_request.url }}" | jq -r .body)
+        
+        # Verifica si todos los items están marcados como "done"
+        if [[ $(echo "$PR_BODY" | grep -c "\[ \]") -gt 0 ]]; then
+          echo "Error: Algunos elementos en el checklist no están marcados como hechos."
+          exit 1
+        fi
+
+    - name: Success message
+      if: success()
+      run: echo "Todos los elementos en el checklist están marcados como hechos. ¡Bien hecho!"
+
+  validate-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Verify README file only
+      run: |
+        # Cuenta el número de archivos modificados
+        FILE_COUNT=$(git diff --name-only origin/main | wc -l)
+        if [ "$FILE_COUNT" -gt 1 ]; then
+          echo "Error: The PR should only contain one README file." >&2
+          exit 1
+        fi
+
+    - name: Check README content
+      run: |
+        # Verifica que el README incluya una sección específica
+        if ! grep -q "Descripción breve" */README.md; then
+          echo "Error: README.md file is missing required sections." >&2
+          exit 1
+        fi
