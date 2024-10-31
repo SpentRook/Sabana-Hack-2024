@@ -1,5 +1,3 @@
-Aquí tienes la redacción corregida:
-
 # Sabana Hack 2024  
 ## Octava Edición
 
