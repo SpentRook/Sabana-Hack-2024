@@ -21,26 +21,26 @@ Proporcionar un espacio de co-creación para desarrollar soluciones tecnológica
 | -------------------- | ----------------------------------------- |
 | Innovatronix         | [Innovatronix](./solutions/Innovatronix)         |
 | IdeaBusters          | [IdeaBusters](./solutions/IdeaBusters)           |
-| Solution Seekers     | [Solution Seekers](./solutions/SolutionSeekers)   |
-| Los Muchachones      | [Los Muchachones](./solutions/LosMuchachones)     |
+| Solution Seekers     | [Solution Seekers](./solutions/Solution_Seekers)   |
+| Los Muchachones      | [Los Muchachones](./solutions/Los_Muchachones)     |
 | Zettabytes           | [Zettabytes](./solutions/Zettabytes)             |
 | Webelopers           | [Webelopers](./solutions/Webelopers)             |
-| OmeBuleanos®         | [OmeBuleanos](./solutions/OmeBuleanos)           |
+| OmeBuleanos®         | [OmeBuleanos](./solutions/OmeBuleanos_)           |
 | Interrobang          | [Interrobang](./solutions/Interrobang)           |
-| Bytes&Bits           | [Bytes&Bits](./solutions/BytesBits)              |
+| Bytes&Bits           | [Bytes&Bits](./solutions/Bytes_Bits)              |
 | Anuelitos            | [Anuelitos](./solutions/Anuelitos)               |
 | Kronos               | [Kronos](./solutions/Kronos)                     |
-| Wealth Innovators    | [Wealth Innovators](./solutions/WealthInnovators)|
-| Java The Hut         | [Java The Hut](./solutions/JavaTheHut)           |
+| Wealth Innovators    | [Wealth Innovators](./solutions/Wealth_Innovators)|
+| Java The Hut         | [Java The Hut](./solutions/Java_The_Hut)           |
 | NullPointerException | [NullPointerException](./solutions/NullPointerException) |
 | Stackies             | [Stackies](./solutions/Stackies)                 |
 | Occam                | [Occam](./solutions/Occam)                       |
 | UEBFA                | [UEBFA](./solutions/UEBFA)                       |
-| Sabana Squad+1       | [Sabana Squad+1](./solutions/SabanaSquad+1)      |
-| Stark Industries     | [Stark Industries](./solutions/StarkIndustries)  |
-| Flip Flops           | [Flip Flops](./solutions/FlipFlops)              |
+| Sabana Squad+1       | [Sabana Squad+1](./solutions/Sabana_Squad_1)      |
+| Stark Industries     | [Stark Industries](./solutions/Stark_industries)  |
+| Flip Flops           | [Flip Flops](./solutions/Flip_Flops)              |
 | ProtonHackers        | [ProtonHackers](./solutions/ProtonHackers)       |
-| Pixel Raptors        | [Pixel Raptors](./solutions/PixelRaptors)        |
+| Pixel Raptors        | [Pixel Raptors](./solutions/Pixel_Raptors)        |
 | TechFusion           | [TechFusion](./solutions/TechFusion)             |
 | CollabNation         | [CollabNation](./solutions/CollabNation)         |
 
