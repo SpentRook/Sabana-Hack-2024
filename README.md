@@ -26,7 +26,7 @@ Proporcionar un espacio de co-creación para desarrollar soluciones tecnológica
 Cada equipo debe enviar un Pull Request (PR) para agregar su README dentro de su carpeta correspondiente, siguiendo la plantilla proporcionada a continuación.
 
 ## Instrucciones para los Equipos
-1. Clona o haz fork de este repositorio.
+1. Haz fork de este repositorio.
 2. Crea una carpeta con el nombre `equipoX` (reemplazando X por el número de tu equipo).
 3. Agrega un archivo `README.md` en tu carpeta con la ficha técnica de tu solución (sigue el [Template de README de equipo](./templates/README-template.md)).
 4. Envía un PR para agregar tu carpeta y README al repositorio principal.
