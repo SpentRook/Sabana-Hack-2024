@@ -21,7 +21,7 @@ Indica el nivel de desarrollo actual de la solución (ejemplo: prototipo funcion
 - **Tecnologías utilizadas**: [Ej. Python, Node.js, React, ...]
 - **Herramientas usadas**: [Ej. Docker, MongoDB, Figma, ...]
 - **Alcance del prototipo**: Describe brevemente el alcance actual del prototipo y sus limitaciones.
-  Se puede agregar cualquier otro detalle técnico que se desee compartir como diagramas, prespuesto, imagenes, etc.
+  Se puede agregar cualquier otro detalle técnico que se desee compartir como diagramas, presupuesto, imágenes, etc.
 
 ## Repositorio del proyecto
 [Repositorio del equipo](URL)
