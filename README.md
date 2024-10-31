@@ -17,11 +17,33 @@ Proporcionar un espacio de co-creación para desarrollar soluciones tecnológica
 - **`README.md` (este archivo)**: Contiene información general de la hackathon y enlaces a cada solución presentada.
 
 ## Lista de Equipos y Soluciones
-| Equipo  | Link a la Carpeta |
-| ------- | ----------------- |
-| Equipo 1 | [equipo1](./equipo1) |
-| Equipo 2 | [equipo2](./equipo2) |
-| ...     | ...               |
+| Equipo               | Link a la Carpeta                         |
+| -------------------- | ----------------------------------------- |
+| Innovatronix         | [Innovatronix](./solutions/Innovatronix)         |
+| IdeaBusters          | [IdeaBusters](./solutions/IdeaBusters)           |
+| Solution Seekers     | [Solution Seekers](./solutions/SolutionSeekers)   |
+| Los Muchachones      | [Los Muchachones](./solutions/LosMuchachones)     |
+| Zettabytes           | [Zettabytes](./solutions/Zettabytes)             |
+| Webelopers           | [Webelopers](./solutions/Webelopers)             |
+| OmeBuleanos®         | [OmeBuleanos](./solutions/OmeBuleanos)           |
+| Interrobang          | [Interrobang](./solutions/Interrobang)           |
+| Bytes&Bits           | [Bytes&Bits](./solutions/BytesBits)              |
+| Anuelitos            | [Anuelitos](./solutions/Anuelitos)               |
+| Kronos               | [Kronos](./solutions/Kronos)                     |
+| Wealth Innovators    | [Wealth Innovators](./solutions/WealthInnovators)|
+| Java The Hut         | [Java The Hut](./solutions/JavaTheHut)           |
+| NullPointerException | [NullPointerException](./solutions/NullPointerException) |
+| Stackies             | [Stackies](./solutions/Stackies)                 |
+| Occam                | [Occam](./solutions/Occam)                       |
+| UEBFA                | [UEBFA](./solutions/UEBFA)                       |
+| Sabana Squad+1       | [Sabana Squad+1](./solutions/SabanaSquad+1)      |
+| Stark Industries     | [Stark Industries](./solutions/StarkIndustries)  |
+| Flip Flops           | [Flip Flops](./solutions/FlipFlops)              |
+| ProtonHackers        | [ProtonHackers](./solutions/ProtonHackers)       |
+| Pixel Raptors        | [Pixel Raptors](./solutions/PixelRaptors)        |
+| TechFusion           | [TechFusion](./solutions/TechFusion)             |
+| CollabNation         | [CollabNation](./solutions/CollabNation)         |
+
 
 Cada equipo debe enviar un Pull Request (PR) para agregar su README dentro de su carpeta correspondiente, siguiendo la plantilla proporcionada a continuación.
 
