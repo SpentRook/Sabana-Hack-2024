@@ -1,13 +1,18 @@
-# Sabana Hack - 8va Edición
+Aquí tienes la redacción corregida:
 
-Bienvenidos al repositorio central de la 8va edición de **Sabana Hack**, un evento de innovación abierta en el que estudiantes de diversas disciplinas y nacionalidades se reúnen para desarrollar soluciones tecnológicas a problemas reales de empresas y organizaciones.
+# Sabana Hack 2024  
+## Octava Edición
 
-Puedes encontrar la información de la hackathon en su [landing page aqui](https://www.unisabana.edu.co/programas/unidades-academicas/facultad-de-ingenieria/actividades-de-apendizaje-experiencial/sabana-hack-2024/).
+Estimados competidores, 
 
-Aquí encontrarás una carpeta para cada equipo participante, con la documentación de su proyecto y un enlace a su repositorio específico.
+¡Bienvenidos al repositorio central de la octava edición de **Sabana Hack**! Este es un evento de innovación abierta donde estudiantes de diversas disciplinas se reúnen para desarrollar soluciones tecnológicas a problemas reales planteados por empresas y organizaciones.
 
-## Objetivo de la Hackathon
-Proporcionar un espacio de co-creación para desarrollar soluciones tecnológicas innovadoras y prácticas que aborden retos empresariales y sociales.
+Si deseas consultar los términos y condiciones, así como información relevante sobre el evento, puedes acceder a su [landing page aquí](https://www.unisabana.edu.co/programas/unidades-academicas/facultad-de-ingenieria/actividades-de-apendizaje-experiencial/sabana-hack-2024/).
+
+En este repositorio, encontrarás una carpeta para cada equipo participante, con la documentación de su proyecto y un enlace a su repositorio específico.
+
+## Objetivo de Sabana Hack
+Proporcionar un espacio de co-creación para desarrollar soluciones tecnológicas innovadoras y prácticas que respondan a retos empresariales y sociales.
 
 ## Estructura del Repositorio
 - **`/equipoX`**: Cada equipo tiene su propia carpeta que contiene un archivo README con la ficha técnica de su solución y un enlace a su repositorio completo.
