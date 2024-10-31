@@ -50,7 +50,7 @@ jobs:
     - name: Check README content
       run: |
         # Verifica que el README incluya una sección específica
-        if ! grep -q "Descripción breve" */README.md; then
+        if ! grep -q "Descripción breve" **/README.md; then
           echo "Error: README.md file is missing required sections." >&2
           exit 1
         fi
