@@ -4,7 +4,7 @@
 Belbeau es una inteligencia artificial generativa que busca personalizar, dinamizar y facilitar la experiencia de las consultoras en sus procesos de venta.  
 
 ## Nivel de desarrollo
-Indica el nivel de desarrollo actual de la solución (ejemplo: prototipo funcional, versión preliminar, etc.)
+Prototipo funcional
 
 ## Link al video
 [Video de presentación](URL)
