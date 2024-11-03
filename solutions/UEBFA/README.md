@@ -7,7 +7,7 @@ Consiste en un analisis de seguimiento del proceso de lavado de manos durante la
 Demo funcional
 
 ## Link al video
-[Video de presentación](URL)
+[Video de presentación]((https://www.youtube.com/watch?v=wUIrtleb2pQ))
 
 ## Ventajas o fortalezas de nuestra propuesta
 1. Monitoreo efectivo de la adherencia al protocolo de lavado de manos.
@@ -25,8 +25,11 @@ Demo funcional
 ## Detalles técnicos
 - **Tecnologías utilizadas**: React, JavaScript, TeachableMachine
 - **Herramientas usadas**: Figma, Arduino, OnShape, Github
-- **Alcance del prototipo**: Describe brevemente el alcance actual del prototipo y sus limitaciones.
-  Se puede agregar cualquier otro detalle técnico que se desee compartir como diagramas, presupuesto, imágenes, etc.
+- **Alcance del prototipo**: Este sistema va dirigido a los profesionales del area de la salud que frecuentan UCI con el fin de mejorar la eficiencia y adherencia a los protocolos aceptados por la OMS. Se limita unicamente a este ambito y es dependiente de recursos con los que el mismo hospital debe contar por medio de regularización y estandarización de disponibilidad continua (Servicios básicos).
+Elementos extra y que soportan el desarrollo del proyecto:
+  - Modelo Canva: https://lucid.app/lucidchart/4acedffe-a506-4761-be26-02302d620f35/edit?view_items=ueNngSOJCdFj&invitationId=inv_191aaa46-ff30-4210-9f8a-289b60e50351
+  - Modelo 3D estación de lavado de manos: https://cad.onshape.com/documents/a62dac4c639193937ebd6e3a/w/3e5bbdb8e1368b13237e24ce/e/a2b27901a5741d1c2c5c16c0?renderMode=0&uiState=67274dbfa74d9b77d0d56062
+  - Maqueta / Diseño: https://www.figma.com/design/1cVYhzRNYwIT553cESdBAw/PureTouch?node-id=0-1&t=VnFi2QLpPT68Wkqu-1
 
 ## Repositorio del proyecto
 https://github.com/DiegoF1311/PureTouch
