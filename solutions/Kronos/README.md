@@ -32,7 +32,7 @@ los usuarios se adpatan al nuevo funcionamiento. Sin embargo, Nuestra ecosistema
 ## Detalles técnicos
 - **Tecnologías utilizadas**: Python, JavaScript.js, IA
 - **Herramientas usadas**: Figma, Looker Studio, Visual Studio, Read.ai, DocuSense, Laserfiche, clockwise, poe.com
-- **Alcance del prototipo**: Describe brevemente el alcance actual del prototipo y sus limitaciones.
+- **Alcance del prototipo**: El proyecto soluciona los problemas presentados, logra conectar a usuarios, mentores e inversionistas y tambien automatiza distintas tareas para ahorrar tiempo a todos los miembros de la organización. Si bien la principal limitación puede ser la adaptación al cambio y algunas funciones que aun se encuentran en desarrollo, se considera que a largo plazo estas limitaciones no presentan ningún problem
   **Presupuesto:** [Presupuesto.pdf](https://github.com/salda824/Kronos/blob/91251f22f78981fbe929c1774d3b5064a32f34ea/Presupuesto.pdf)
   **Modelo de Negocio:** [Modelo de Negocio.pdf](https://github.com/salda824/Kronos/blob/ce0739c495c6fff25c99dfddf00c8dc840c13af2/Business%20Model%20Canvas%20Pegaso.pdf)
 
