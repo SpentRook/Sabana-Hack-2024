@@ -9,7 +9,7 @@ Nuestra solución está diseñada para potenciar a las consultoras de Belcorp, f
 Nuestro desarrollo se encuentra en una **etapa de versión preliminar**. Actualmente, el chatbot es completamente funcional en WhatsApp y está equipado con información sintetizada, además de su integración con ChatGPT-4o-mini para proporcionar soporte y asistencia en tiempo real. Adicionalmente, hemos entrenado un modelo de reconocimiento de imágenes que identifica tres productos estrella de Ésika, específicamente los perfumes Vibranza, que fueron los productos disponibles para esta fase inicial. Todo el sistema funciona y se encuentra integrado de manera cohesiva, permitiendo una experiencia fluida para las consultoras en esta etapa de desarrollo.
 
 ## Link al video
-[Video de presentación](URL)
+[[Video de presentación](URL)](https://youtu.be/-wDlcThB2cE)
 
 ## Ventajas o fortalezas de nuestra propuesta
 1. **Accesibilidad y simplicidad de uso**: Integrado en WhatsApp y con una interfaz en lenguaje natural, el chatbot es accesible para consultoras de todas las edades y niveles de digitalización.
@@ -42,8 +42,9 @@ Nuestro desarrollo se encuentra en una **etapa de versión preliminar**. Actualm
 -**Spreadsheet de costos y beneficios:** https://docs.google.com/spreadsheets/d/11rFj5jRbm5ZKYDgZXSFi30AnpRvAkX5YdTua0i-xYjg/edit?gid=563575975#gid=563575975
 
   Contamos con un conjunto de imágenes de temas financieros generados en R, que se pueden incluir en el prototipo o la documentación para apoyar el análisis de datos y las visualizaciones en futuras fases de desarrollo.
-![Ahorro grafica anualizada](https://github.com/user-attachments/assets/58665b4e-2c9f-486d-9c95-2edce41a5900)
-![Ahorro grafica campaña](https://github.com/user-attachments/assets/ed61d903-52db-4a76-bac1-9e55a6306c69)
+![AHORRO POR CAMPAÑA FINAL](https://github.com/user-attachments/assets/f9800193-7402-4e30-bb7f-5ac9391bec67)
+
+![AHORRO POR CAMPAÑA ANUALIZADO FINAL](https://github.com/user-attachments/assets/a39044ec-4f2c-41a2-98bc-50af5bdd33b8)
 
 ## Repositorio del proyecto
 **Repositorio ChatBot:**  https://github.com/SantiagoSantafe/ChatBotBelcorp
