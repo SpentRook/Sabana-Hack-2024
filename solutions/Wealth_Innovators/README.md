@@ -25,7 +25,6 @@ Nuestro desarrollo se encuentra en una **etapa de versión preliminar**. Actualm
 6. **Evolutivo**: Con un sistema de retroalimentación que permite ajustes constantes, el chatbot se mantiene relevante a largo plazo.
 
 ## Desventajas o debilidades de nuestra propuesta
-### Desventajas o debilidades de nuestra propuesta
 
 1. **Dependencia de WhatsApp**: Al estar centrada en WhatsApp, la solución depende de la estabilidad y funcionalidad de esta plataforma. Si WhatsApp enfrenta problemas o limita ciertas funcionalidades, podría afectar la experiencia de las consultoras.
 
@@ -35,8 +34,11 @@ Nuestro desarrollo se encuentra en una **etapa de versión preliminar**. Actualm
 
 ## Detalles técnicos
 - **Tecnologías utilizadas**: WhatsApp Business API, Python, Flask, ChatGPT API, AWS Recognition, Requests, JSON, Teachable Machine de Google, R, TensorFlow, Keras, HTML5, JavaScript.
+  
 - **Herramientas usadas**: Figma, APIs, Anaconda, Canva, Glitch.com, RStudio, GitHub, AWS,Github Actions.
+  
 - **Alcance del prototipo**: El prototipo actual es funcional y permite a las consultoras de Belcorp gestionar sus pedidos de manera sencilla mediante un chatbot en WhatsApp. Este chatbot soporta la realización de pedidos por código de producto, búsqueda por nombre o mediante una foto del catálogo o producto, utilizando AWS Recognition para el reconocimiento de imágenes en tres productos específicos de Ésika. Además, el prototipo incluye una integración con ChatGPT para resolver dudas en tiempo real y un sistema básico de registro de clientes para facilitar el análisis de ventas.
+- 
 -**Spreadsheet de costos y beneficios:** https://docs.google.com/spreadsheets/d/11rFj5jRbm5ZKYDgZXSFi30AnpRvAkX5YdTua0i-xYjg/edit?gid=563575975#gid=563575975
 
   Contamos con un conjunto de imágenes de temas financieros generados en R, que se pueden incluir en el prototipo o la documentación para apoyar el análisis de datos y las visualizaciones en futuras fases de desarrollo.
@@ -46,6 +48,6 @@ Nuestro desarrollo se encuentra en una **etapa de versión preliminar**. Actualm
 ## Repositorio del proyecto
 **Repositorio ChatBot:**  https://github.com/SantiagoSantafe/ChatBotBelcorp
 
-**Repositorio analisis de productos:**
+**Repositorio analisis de productos:** https://github.com/SantiagoSantafe/AnalisisProductosBelcorp
 
 **Figma:** https://www.figma.com/design/IYmBKSvolZ2mu7NxQ5d7aN/Whatsapp-Belcorp?node-id=14-1033&t=tzcPtrzvVoZZ2lSW-1
