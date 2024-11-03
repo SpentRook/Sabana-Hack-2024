@@ -7,7 +7,7 @@ Pegaso es una IA que se conecta directamente con los sistemas de UpView para bri
 Prototipo funcional con funciones en desarrollo 
 
 ## Link al video
-[Video de presentación](URL)
+[Video de presentación](https://youtu.be/9LzPyIPOdBU)
 
 ## Ventajas o fortalezas de nuestra propuesta
 1. **Centralización de la comunicación en un solo lugar:** Pegaso permite que toda la comunicación entre mentores, startups y administradores se centralice en una única plataforma, evitando la 
