@@ -1,4 +1,4 @@
-# Ficha Técnica - [Nombre del Proyecto]
+# Ficha Técnica - Gambas
 
 ## Descripción breve
 El objetivo de la solución es mejorar la cultura y técnica del lavado de manos que se realiza en las unidades de cuidados intensivos, por medio de un espejo inteligente que sea capaz de reconocer y guiar a los doctores cuando se lavan las manos. La propuesta de valor es que se busca crear un ecosistema alrededor de cada lavada manos, esto permitiría llevar registros históricos, que pueden ser utilizados para efectos de rastreabilidad y trazabilidad de IAAS al fusionar la información con las bases de datos de los hospitales. Adicionalmente, es posible monetizar esa información para futuros estudios en cuanto a la efectividad de la técnica de lavado de manos para la prevención de transmición de IAAS .
