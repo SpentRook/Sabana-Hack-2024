@@ -35,4 +35,5 @@ Además, se desarrolló un backend con Flask, que expone un endpoint consumido p
 Para continuar se hizo uso de angular para la programación frontend con la libreriía de Ngx webcam con el proposito de utilizar la cámara del dispositivo, para poder tomar una foto y hacer el envío de la imagen codificada en base64 al backend, el cual la decodifica, realiza el análisis por medio de IA y devuelve al frontend el analisis realizado en formato JSON y finalmente sería mostrado en la interfaz
 
 ## Repositorio del proyecto
-[Repositorio del equipo](URL)
+* [Proyecto backend](https://github.com/Oswe-gif/Backend_Proyecto.git)  
+* [Proyecto figma](https://www.figma.com/proto/OrPeVo7IFjpS6C3Sg6l0U4/Untitled?node-id=1-5&node-type=frame&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=4%3A9)
