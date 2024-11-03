@@ -24,4 +24,4 @@ Indica el nivel de desarrollo actual de la solución (ejemplo: prototipo funcion
   Se puede agregar cualquier otro detalle técnico que se desee compartir como diagramas, presupuesto, imágenes, etc.
 
 ## Repositorio del proyecto
-[Repositorio del equipo](URL)
+[Proyecto backend](https://github.com/Oswe-gif/Backend_Proyecto.git)
