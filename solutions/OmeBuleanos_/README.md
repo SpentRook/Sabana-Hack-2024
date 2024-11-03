@@ -20,9 +20,8 @@ Indica el nivel de desarrollo actual de la solución (ejemplo: prototipo funcion
 ## Detalles técnicos
 - **Tecnologías utilizadas**: Python - Flask, Angular, API de Gemini
 - **Herramientas usadas**: Figma
-- **Alcance del prototipo**: Describe brevemente el alcance actual del prototipo y sus limitaciones.
-  Se puede agregar cualquier otro detalle técnico que se desee compartir como diagramas, presupuesto, imágenes, etc.
-
+- **Alcance del prototipo**: El prototipo tiene como objetivo simular el flujo de trabajo de las consultoras al mostrar un producto a sus clientes. Para ello, se creó un flujo básico en Figma que incluye interacción con botones y navegación entre diferentes ventanas. Asimismo, se realizó una demostración en la que la consultora toma una fotografía del usuario para mostrar cómo se vería utilizando el producto. Además, el script es capaz de proporcionar productos según la fotografía obtenida y ofrecer recomendaciones personalizadas. Estos datos se exponen en un endpoint, que el frontend muestra de manera intuitiva al usuario final.
+  
   En primer lugar, se creó un script en Python llamado Training, que establece comunicación con la API de Gemini para enviar las imágenes de los productos y analizarlas utilizando la biblioteca PIL.Image. Este análisis permite identificar ventajas, desventajas y una descripción general de los productos. Con esta información, se generó un diccionario que resume los datos más relevantes de cada producto, los cuales luego se utilizan para procesar las imágenes.
 
 Además, se desarrolló un backend con Flask, que expone un endpoint consumido por el frontend programado en Angular. Para el intercambio de imágenes entre el frontend y el backend, se empleó codificación en base64 mediante las bibliotecas base64 y cv2. En el backend, también se utilizó NumPy para decodificar las imágenes.
