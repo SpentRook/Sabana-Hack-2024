@@ -7,7 +7,7 @@ Belbeau es una inteligencia artificial generativa que busca personalizar, dinami
 Prototipo funcional
 
 ## Link al video
-[Video de presentación](URL)
+[Video de presentación](https://youtu.be/hfXPOTNCo6))
 
 ## Link de la presentación
 [Presentación canva](https://www.canva.com/design/DAGVZ2EihYg/Llf_8nEkfl7lQ4lmwKsAeA/edit)
