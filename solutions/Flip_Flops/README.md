@@ -23,6 +23,7 @@ MVP listo para Back y Front
 - **Tecnologías utilizadas**: [Python, OpenAI, NextJS, FastAPI, Oracle DB]
 - **Herramientas usadas**: [OCI]
 - **Alcance del prototipo**: MVP totalmente funcional tanto back como front.
+- **Prototipo no funcional**: [Figma del equipo](https://www.figma.com/proto/N0VOA3HbXxXqyix74qbbrx/FrontEnd---Sabana-Hack?node-id=1-3&node-type=canvas&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3)
 
 
 ## Repositorio del proyecto
