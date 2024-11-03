@@ -8,6 +8,7 @@ Prototipo funcional
 
 ## Link al video
 [Video de presentación](URL)
+
 [Diapositivas de la presentación](https://www.canva.com/design/DAGVX1mU97Y/kvxlqkR1sP461hA1fVumQg/edit?utm_content=DAGVX1mU97Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Ventajas o fortalezas de nuestra propuesta
