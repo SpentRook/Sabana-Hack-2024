@@ -25,7 +25,7 @@ Mockup y prototipo semifuncional
 Sin embargo, el prototipo tiene algunas limitaciones. Actualmente, no incluye la funcionalidad de integración en tiempo real con las fuentes de datos, ni las capacidades de análisis avanzadas que se planean implementar en la versión final.
 
 ## Repositorio del proyecto
-[Repositorio del equipo]([URL](https://github.com/davidesco201/Sabana-Hack-2024/tree/main/solutions/Zettabytes))
+[Repositorio del equipo]([https://github.com/davidesco201/Sabana-Hack-2024/tree/main/solutions/Zettabytes])
 ## Canva
 [Accede al diseño en Canva](https://www.canva.com/design/DAGVaWhlYrA/-t1vueW9KvCwtp6QQUGRTw/edit?utm_content=DAGVaWhlYrA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
