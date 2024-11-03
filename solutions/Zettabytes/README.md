@@ -1,10 +1,11 @@
 # Ficha Técnica - [UpView 360]
 
 ## Descripción breve
-Escribe una breve descripción de la solución.
+Upview 360 es una innovadora plataforma digital diseñada para potenciar la gestión de startups. Integra, sintetiza, centraliza y ordena fuentes de información, lo que permite un seguimiento y trazabilidad efectiva de los procesos. Además, facilita una comunicación interna y externa más fluida, optimizando así la colaboración y la toma de decisiones en cada etapa del desarrollo de las empresas. Con Upview 360, las startups pueden mejorar su eficiencia y alcanzar sus objetivos de manera más efectiva.
+
 
 ## Nivel de desarrollo
-Upview 360 es una innovadora plataforma digital diseñada para potenciar la gestión de startups. Integra, sintetiza, centraliza y ordena fuentes de información, lo que permite un seguimiento y trazabilidad efectiva de los procesos. Además, facilita una comunicación interna y externa más fluida, optimizando así la colaboración y la toma de decisiones en cada etapa del desarrollo de las empresas. Con Upview 360, las startups pueden mejorar su eficiencia y alcanzar sus objetivos de manera más efectiva.
+Mockup y prototipo semifuncional
 
 ## Link al video
 [Video de presentación](URL)
