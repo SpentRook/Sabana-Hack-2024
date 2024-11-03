@@ -37,9 +37,11 @@ Nuestro desarrollo se encuentra en una **etapa de versión preliminar**. Actualm
 - **Tecnologías utilizadas**: WhatsApp Business API, Python, Flask, ChatGPT API, AWS Recognition, Requests, JSON, Teachable Machine de Google, R, TensorFlow, Keras, HTML5, JavaScript.
 - **Herramientas usadas**: Figma, APIs, Anaconda, Canva, Glitch.com, RStudio, GitHub, AWS,Github Actions.
 - **Alcance del prototipo**: El prototipo actual es funcional y permite a las consultoras de Belcorp gestionar sus pedidos de manera sencilla mediante un chatbot en WhatsApp. Este chatbot soporta la realización de pedidos por código de producto, búsqueda por nombre o mediante una foto del catálogo o producto, utilizando AWS Recognition para el reconocimiento de imágenes en tres productos específicos de Ésika. Además, el prototipo incluye una integración con ChatGPT para resolver dudas en tiempo real y un sistema básico de registro de clientes para facilitar el análisis de ventas.
-  Se puede agregar cualquier otro detalle técnico que se desee compartir como diagramas, presupuesto, imágenes, etc.
+-**Spreadsheet de costos y beneficios:** https://docs.google.com/spreadsheets/d/11rFj5jRbm5ZKYDgZXSFi30AnpRvAkX5YdTua0i-xYjg/edit?gid=563575975#gid=563575975
 
   Contamos con un conjunto de imágenes de temas financieros generados en R, que se pueden incluir en el prototipo o la documentación para apoyar el análisis de datos y las visualizaciones en futuras fases de desarrollo.
+![Ahorro grafica anualizada](https://github.com/user-attachments/assets/58665b4e-2c9f-486d-9c95-2edce41a5900)
+![Ahorro grafica campaña](https://github.com/user-attachments/assets/ed61d903-52db-4a76-bac1-9e55a6306c69)
 
 ## Repositorio del proyecto
 **Repositorio ChatBot:**  https://github.com/SantiagoSantafe/ChatBotBelcorp
