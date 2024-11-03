@@ -27,3 +27,7 @@ Prototipo de aplicación Funcional, con algunos detalles que elaborar con mas en
 
 ## Repositorio del proyecto
 [Repositorio del equipo](https://github.com/1JuL/sbhack_solution)
+
+## Link de la presentacion (CANVA)
+[Presentación](https://www.canva.com/design/DAGVWx8Jqik/iU444aLFLZ2TtQl3Dq7LMQ/edit?utm_content=DAGVWx8Jqik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
