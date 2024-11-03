@@ -24,10 +24,10 @@
 ## Desventajas o debilidades de nuestra propuesta
 1. **Requiere Capacitación**: El personal debe estar capacitado para utilizar y entender la retroalimentación del sistema, especialmente en el uso de la realidad aumentada.
 2. **Dependencia de Energía**: Requiere una fuente de energía constante para su funcionamiento, lo que puede ser un desafío en entornos con suministro eléctrico inestable.
-3. **Almacenamiento Local Limitado**: La capacidad de almacenamiento local puede ser un problema si se requiere retener grandes cantidades de datos históricos.
+3. **Almacenamiento Local Limitado**: La capacidad de almacenamiento local puede ser un problema si se requiere retener enormes cantidades de datos históricos.
 
 ## Detalles técnicos
-- **Tecnologías utilizadas**: Python, OpenCV, TensorFlow Lite (para Machine Learning Federado), React (para interfaz de usuario), JavaScript, HTML5, CSS3
+- **Tecnologías utilizadas**: Python, OpenCV, yolov8(Detección de gestos de manos), teachable machine(detección facial y de objetos)TensorFlow Lite (para Machine Learning Federado), React (para interfaz de usuario), JavaScript, HTML5, CSS3
 - **Herramientas usadas**: Docker (para entornos virtualizados), Figma (prototipo UI), ReportLab (para generación de reportes PDF), GitHub (control de versiones), Raspberry Pi 4 (sistema embebido).
 - **Alcance del prototipo**: 
   - Actualmente, el prototipo incluye reconocimiento de gestos básicos y avanzados de lavado de manos, detección de objetos no permitidos, y sincronización local de datos en la microSD.
