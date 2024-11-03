@@ -49,8 +49,8 @@ Cada equipo debe enviar un Pull Request (PR) para agregar su README dentro de su
 
 ## Instrucciones para los Equipos
 1. Haz fork de este repositorio.
-2. Crea una carpeta con el nombre `equipoX` (reemplazando X por el número de tu equipo).
-3. Agrega un archivo `README.md` en tu carpeta con la ficha técnica de tu solución (sigue el [Template de README de equipo](./templates/README-template.md)).
+2. Entra en la carpeta solutions y buscadentro la carpeta con el nombre.
+3. Modifica el archivo `README.md` en tu carpeta con la ficha técnica de tu solución (sigue el [Template de README de equipo](./templates/README-template.md)).
 4. Envía un PR para agregar tu carpeta y README al repositorio principal.
 
 ## Reglas y Términos de la Hackathon
