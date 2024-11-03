@@ -33,7 +33,7 @@ Prototipo Funcional
 ## Detalles técnicos
 - **Tecnologías utilizadas**: React, Node Js, Express Js, Pyhton, FastApi, Gemini Audio to Text, ChatGpt 4 mini.
 - **Herramientas usadas**: GCP, Figma, Pycharm, Visual Studio, Github, Ngrock, Twilio.
-- **Alcance del prototipo**: Actualmente, el alcance del prototipo es mejorar la experiencia de las consultoras en Colombia, y centrado en la ayuda automatizada en compra, venta y control de productos, la limitación más grande es la dependencia completa a una red de internet para poder consumir cualquier canal.
+- **Alcance del prototipo**: Actualmente, el alcance del prototipo es mejorar la experiencia de las consultoras en los 14 paises con precencia por parte de Belcorp, y centrado en la ayuda automatizada en compra, venta y control de productos, la limitación más grande es la dependencia completa a una red de internet para poder consumir cualquier canal.
 
 *Estructura
 
