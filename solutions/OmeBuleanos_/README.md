@@ -1,7 +1,7 @@
-# Ficha Técnica - [Nombre del Proyecto]
+# Ficha Técnica -  BELBEAU
 
 ## Descripción breve
-Escribe una breve descripción de la solución.
+Belbeau es una inteligencia artificial generativa que busca personalizar, dinamizar y facilitar la experiencia de las consultoras en sus procesos de venta.  
 
 ## Nivel de desarrollo
 Indica el nivel de desarrollo actual de la solución (ejemplo: prototipo funcional, versión preliminar, etc.)
@@ -13,8 +13,10 @@ Indica el nivel de desarrollo actual de la solución (ejemplo: prototipo funcion
 [Presentación canva](https://www.canva.com/design/DAGVZ2EihYg/Llf_8nEkfl7lQ4lmwKsAeA/edit)
 
 ## Ventajas o fortalezas de nuestra propuesta
-1. ...
-2. ...
+* Personalización del servicio: Recomendaciones personalizadas de productos en tiempo real, basada en preferencias, compras anteriores, tendencias, etc. 
+* Optimizar la gestión del cliente: Capacidad de gestión de la relación con los clientes de manera eficiente, sugerencias de seguimiento personalizadas, etc. 
+* Experiencia interactiva: Pruebas virtuales personalizadas (virtual tryons) para guiar a la consultora en su proceso de compra y asesoría a sus clientes. 
+* Retención de las consultoras: Mediante la facilitación de la información, las ventas son más efectivas y se obtiene una mayor utilidad. 
 
 ## Desventajas o debilidades de nuestra propuesta
 *  Que si bien la solución puede ser escalable a las 3 marcas de belcorp, el prototipo está basado para cyzone, lo que puede desconcertar a los jurados. 
