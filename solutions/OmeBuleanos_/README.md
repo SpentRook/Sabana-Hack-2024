@@ -14,10 +14,10 @@ Indica el nivel de desarrollo actual de la solución (ejemplo: prototipo funcion
 2. ...
 
 ## Desventajas o debilidades de nuestra propuesta
-1.  Que si bien la solución puede ser escalable a las 3 marcas de belcorp, el prototipo está basado para cyzone, lo que puede desconcertar a los jurados. 
-2.  El prototipo se presenta de manera local, pero la solución se planea hacer utilizando cloud computing.
-3.  La IA tiende a demorarse analizando las imagenes, por lo que se tienen datos precargados.
-4.  La respuesta por el backend tiende a ser demorada debido al procesamiento de la IA
+*  Que si bien la solución puede ser escalable a las 3 marcas de belcorp, el prototipo está basado para cyzone, lo que puede desconcertar a los jurados. 
+* El prototipo se presenta de manera local, pero la solución se planea hacer utilizando cloud computing.
+* La IA tiende a demorarse analizando las imagenes, por lo que se tienen datos precargados.
+* La respuesta por el backend tiende a ser demorada debido al procesamiento de la IA
 ## Detalles técnicos
 - **Tecnologías utilizadas**: Python - Flask, Angular, API de Gemini
 - **Herramientas usadas**: Figma
