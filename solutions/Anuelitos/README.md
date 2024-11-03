@@ -7,7 +7,7 @@ Ema es una herramienta digital de alta tecnología orientada a la asistencia, ba
 Prototipo Funcional
 
 ## Link al video
-[Video de presentación](URL)
+[Video de presentación](https://youtu.be/SEFNSuWzKmQ)
 
 ## Ventajas o fortalezas de nuestra propuesta
 1. Mejora de la eficiencia en la gestión de ventas e inventario: Al proporcionar acceso rápido y preciso a información sobre ventas, inventario y catálogo, Ema facilita a las consultoras una gestión más ágil, permitiéndoles dedicar más tiempo a la atención al cliente.
