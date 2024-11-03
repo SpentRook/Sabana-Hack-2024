@@ -23,10 +23,18 @@ Prototipo funcional / MVP
 
 ## Detalles técnicos
 
+###Tecnologías utilizadas:
+Backend: TensorFlow, Keras, Node.js.
+Frontend: React, Tailwind CSS.
+Procesamiento de Imágenes: OpenCV, NumPy.
+Visualización y Análisis: Matplotlib, Scikit-Learn.
+Asistentes de IA: ChatGPT, Gemini AI, GitHub Copilot.
+Modelado 3D: Rhino.
+
 ### Alcance Actual del Prototipo
 El prototipo actual permite clasificar imágenes en tiempo real mediante una cámara, identificando dos posiciones específicas (inicio y fin de un proceso) con una precisión confiable. Gracias al uso de redes neuronales convolucionales (CNN) y un modelo ligero como MobileNetV2, el sistema detecta correctamente las posiciones en tiempo real, emitiendo alertas visuales en la pantalla para indicar si las posiciones son correctas o si no se ha detectado nada relevante. Así mismo se incluye un cronómetro que registra la duración del lavado de manos.
 
-Además, el prototipo se conecta con un ESP32 que procesa la información y ejecuta acciones específicas: enciende un LED cuando se detecta una posición correcta o activa un buzzer como alerta cuando la posición no coincide con los requisitos.
+Además, el prototipo se conecta con un Arduino que procesa la información y ejecuta acciones específicas: enciende un LED cuando se detecta una posición correcta o activa un buzzer como alerta cuando la posición no coincide con los requisitos.
 
 Aunque existe una interfaz frontend estática para la visualización de resultados, actualmente no está conectada con el backend en tiempo real. Esta limitación significa que el frontend no refleja directamente el procesamiento del modelo, aunque puede ser usado para mostrar información estática o realizar pruebas de diseño de interfaz.
 
@@ -37,4 +45,4 @@ Aunque existe una interfaz frontend estática para la visualización de resultad
 - **Integración con el Frontend**: Aunque existe un frontend, no está conectado con el backend para recibir datos en tiempo real, limitando su funcionalidad a visualizaciones estáticas o simuladas.
 
 ## Repositorio del proyecto
-[Repositorio del equipo](URL)
+[Repositorio del equipo](https://github.com/DavidVargas-Ctrl/CleanCheck.git)
