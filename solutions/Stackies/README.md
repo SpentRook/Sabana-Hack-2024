@@ -1,4 +1,4 @@
-# Ficha Técnica - [Nombre del Proyecto]
+# Ficha Técnica - LIA
 
 ## Descripción breve
 LIA es una plataforma innovadora para la gestión de programas de aceleración de startups, diseñada para optimizar la experiencia de emprendedores, mentores e inversionistas. La solución centraliza recursos, automatiza procesos clave mediante inteligencia artificial y facilita el seguimiento del progreso de las startups. Con LIA, las aceleradoras pueden mejorar la eficiencia operativa y ofrecer una experiencia personalizada a cada participante.
