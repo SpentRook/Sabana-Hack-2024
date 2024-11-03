@@ -31,5 +31,7 @@ Indica el nivel de desarrollo actual de la solución (ejemplo: prototipo funcion
 
 Además, se desarrolló un backend con Flask, que expone un endpoint consumido por el frontend programado en Angular. Para el intercambio de imágenes entre el frontend y el backend, se empleó codificación en base64 mediante las bibliotecas base64 y cv2. En el backend, también se utilizó NumPy para decodificar las imágenes.
 
+Para continuar se hizo uso de angular con la libreriía de Ngx webcam con el proposito de utilizar la cámara del dispositivo, para poder tomar una foto y hacer el envío de la imagen codificada en base64 al backend, el cual la decodifica, realiza el análisis por medio de IA y devuelve al frontend el analisis realizado en formato JSON y finalmente sería mostrado en la interfaz
+
 ## Repositorio del proyecto
 [Repositorio del equipo](URL)
