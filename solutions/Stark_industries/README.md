@@ -4,7 +4,7 @@
 La propuesta consiste en desarrollar una Inteligencia Artificial (IA) conversacional, denominada "Belbot", diseñada específicamente para asistir a las consultoras de Belcorp, especialmente aquellas con menor familiaridad con la tecnología. Belbot actuará como un asistente virtual, facilitando las tareas diarias de las consultoras, desde la gestión de pedidos hasta la capacitación y el análisis de datos de ventas.
 
 ## Nivel de desarrollo
-Belbot se encuentra en fases preliminares, tenemos el WhatsApp con la IA que responde preguntas y da sugerencias de productos pero falta añadirle el tema de imagenes
+Belbot se encuentra en fases preliminares por lo que es un minimun value proposal (MVP). Realizamos un asistente virtual en WhatsApp Business con la IA que responde preguntas y da sugerencias de productos. Con potencial a mejorar en reconocimiento de imagenes y audio.
 
 ## Link al video
 https://www.youtube.com/watch?v=SOiyd8aUdQ0
