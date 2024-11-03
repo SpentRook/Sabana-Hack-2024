@@ -9,6 +9,9 @@ Indica el nivel de desarrollo actual de la solución (ejemplo: prototipo funcion
 ## Link al video
 [Video de presentación](URL)
 
+## Link de la presentación
+[Presentación canva](https://www.canva.com/design/DAGVZ2EihYg/Llf_8nEkfl7lQ4lmwKsAeA/edit)
+
 ## Ventajas o fortalezas de nuestra propuesta
 1. ...
 2. ...
