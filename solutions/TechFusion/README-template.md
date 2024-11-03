@@ -56,4 +56,7 @@ el nivel de desarrollo se considera preliminar
 
 
 ## Repositorio del proyecto
-[Repositorio del equipo](URL)
+[[Repositorio del equipo](URL)]
+https://factordeveloper.github.io/Claude_ISA_Belcorp/
+https://www.figma.com/proto/6IP1IwbPGxVqY7lO3XyTNG/Untitled?node-id=10-3&node-type=canvas&t=hwGHDQPmTiaTffMv-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A3
+https://www.figma.com/proto/6IP1IwbPGxVqY7lO3XyTNG/Untitled?node-id=17-3&node-type=canvas&t=jgVgczm0QEYKZvxS-1&scaling=min-zoom&content-scaling=fixed&page-id=17%3A2&starting-point-node-id=17%3A3
