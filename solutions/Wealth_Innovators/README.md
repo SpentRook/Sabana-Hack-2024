@@ -42,4 +42,6 @@ Nuestro desarrollo se encuentra en una **etapa de versión preliminar**. Actualm
   Contamos con un conjunto de imágenes de temas financieros generados en R, que se pueden incluir en el prototipo o la documentación para apoyar el análisis de datos y las visualizaciones en futuras fases de desarrollo.
 
 ## Repositorio del proyecto
-[Repositorio del equipo](URL)
+**Repositorio ChatBot:**  https://github.com/SantiagoSantafe/ChatBotBelcorp
+**Repositorio analisis de productos:**
+**Figma:** https://www.figma.com/design/IYmBKSvolZ2mu7NxQ5d7aN/Whatsapp-Belcorp?node-id=14-1033&t=tzcPtrzvVoZZ2lSW-1
