@@ -27,5 +27,6 @@ MVP listo para Back y Front
 
 ## Repositorio del proyecto
 [Repositorio del equipo back](https://github.com/Jeanvaes/Back.INC.FlipFlops.co)
+<br>
 [Repositorio del equipo front](https://github.com/Jeanvaes/Front.INC.Fliflops.co)
 
