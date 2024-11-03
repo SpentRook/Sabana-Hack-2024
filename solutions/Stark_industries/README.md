@@ -7,7 +7,7 @@ La propuesta consiste en desarrollar una Inteligencia Artificial (IA) conversaci
 Belbot se encuentra en fases preliminares, tenemos el WhatsApp con la IA que responde preguntas y da sugerencias de productos pero falta añadirle el tema de imagenes
 
 ## Link al video
-[Video de presentación](URL)
+https://www.youtube.com/watch?v=SOiyd8aUdQ0
 
 ## Link de la presentación
 https://www.canva.com/design/DAGVZdktCqs/2aL6kd1u29vCJNcPFXnt2w/edit
