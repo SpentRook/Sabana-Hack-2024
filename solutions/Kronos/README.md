@@ -33,7 +33,7 @@ los usuarios se adpatan al nuevo funcionamiento. Sin embargo, Nuestra ecosistema
 - **Tecnologías utilizadas**: Python, JavaScript.js, IA
 - **Herramientas usadas**: Figma, Looker Studio, Visual Studio, Read.ai, DocuSense, Laserfiche, clockwise, poe.com
 - **Alcance del prototipo**: Describe brevemente el alcance actual del prototipo y sus limitaciones.
-  **Presupuesto:** Presupuesto.pdf
+  **Presupuesto:** [Presupuesto.pdf](https://github.com/salda824/Kronos/blob/91251f22f78981fbe929c1774d3b5064a32f34ea/Presupuesto.pdf)
 
 ## Repositorio del proyecto
 https://github.com/salda824/Kronos.git
