@@ -8,15 +8,18 @@ Upview 360 es una innovadora plataforma digital diseñada para potenciar la gest
 Mockup y prototipo semifuncional
 
 ## Link al video
-[Video de presentación](URL)
+[Video de presentación](https://youtu.be/Vu5fFTVhbe0?feature=shared)
 
 ## Ventajas o fortalezas de nuestra propuesta
-1. ...
-2. ...
+1. Interfaz Amigable e Intuitiva: La plataforma cuenta con un diseño claro y accesible que facilita la navegación y mejora la experiencia del usuario.
+2. Facilitación de la Comunicación: Mejora la comunicación interna entre equipos y externa con socios y clientes, promoviendo una colaboración más efectiva.
+3. Seguimiento y Trazabilidad: Permite un monitoreo detallado de los procesos de cada startup, asegurando que se mantengan en el camino hacia sus objetivos.
+4. IA Generativa: Utiliza inteligencia artificial para ofrecer recomendaciones personalizadas, así como para sintetizar, centralizar e integrar información de manera eficiente.
 
 ## Desventajas o debilidades de nuestra propuesta
-1. ...
-2. ...
+1. Alcance Amplio: La plataforma ofrece una variedad extensa de funcionalidades, lo que puede dificultar la identificación de las más relevantes para cada startup en sus primeras etapas.
+2. Necesidad de Enfoque: Es esencial priorizar los problemas específicos que se desean resolver, para asegurar que los recursos se dirijan a las áreas de mayor impacto.
+3. Curva de Aprendizaje: Aunque la interfaz es intuitiva, algunos usuarios pueden requerir un tiempo para adaptarse completamente a todas las características disponibles.
 
 ## Detalles técnicos
 - **Tecnologías utilizadas**: IA, Canva, Figma, Capcut. 
