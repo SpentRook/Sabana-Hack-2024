@@ -7,7 +7,7 @@ Bienvenidos a UPVIEW VENTURES INSIDERS, un ecosistema propio de UpView Ventures,
 Prototipo de aplicación Funcional, con algunos detalles que elaborar con mas enfoque.
 
 ## Link al video
-[Video de presentación](URL)
+[Video de presentación]([URL](https://youtu.be/huw9YQwcLBY))
 
 ## Ventajas o fortalezas de nuestra propuesta
 -Claridad documental
