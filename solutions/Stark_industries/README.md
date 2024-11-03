@@ -40,4 +40,4 @@ https://www.canva.com/design/DAGVZdktCqs/2aL6kd1u29vCJNcPFXnt2w/edit
 
 
 ## Repositorio del proyecto
-[Repositorio del equipo](URL)
+https://github.com/andreaurro24/BelBot
