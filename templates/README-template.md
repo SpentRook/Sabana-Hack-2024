@@ -25,3 +25,4 @@ Indica el nivel de desarrollo actual de la solución (ejemplo: prototipo funcion
 
 ## Repositorio del proyecto
 [Proyecto backend](https://github.com/Oswe-gif/Backend_Proyecto.git)
+[Proyecto figma](https://www.figma.com/proto/OrPeVo7IFjpS6C3Sg6l0U4/Untitled?node-id=1-5&node-type=frame&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=4%3A9)
