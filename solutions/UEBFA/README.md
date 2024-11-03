@@ -7,7 +7,7 @@ Consiste en un analisis de seguimiento del proceso de lavado de manos durante la
 Demo funcional
 
 ## Link al video
-[Video de presentación]((https://www.youtube.com/watch?v=wUIrtleb2pQ))
+[Video de presentación](https://www.youtube.com/watch?v=wUIrtleb2pQ)
 
 ## Ventajas o fortalezas de nuestra propuesta
 1. Monitoreo efectivo de la adherencia al protocolo de lavado de manos.
