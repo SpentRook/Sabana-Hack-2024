@@ -7,7 +7,7 @@ MedI/O es una solución integral para la extracción de características deseada
 MVP listo para Back y Front
 
 ## Link al video
-[Video de presentación](URL)
+[Video de presentación](https://www.youtube.com/watch?v=V9fLXjtIWuI&feature=youtu.be)
 
 ## Ventajas o fortalezas de nuestra propuesta
 1. Flexibilidad.
