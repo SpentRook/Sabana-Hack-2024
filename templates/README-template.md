@@ -1,3 +1,22 @@
+# Templates - Sabana Hack 2024
+
+Este directorio contiene templates y ejemplos de UI/UX para los equipos participantes.
+
+## Templates Disponibles
+
+### 📄 [README Template](README-template.md)
+Template base para la documentación de cada equipo.
+
+### 💳 [Upload Payments Template](upload-payments-template/)
+Template completo para la funcionalidad "Subir Datos de Pago" con:
+- Design system moderno y consistente
+- Layout responsivo con botones alineados correctamente
+- Funcionalidad completa de drag & drop
+- Descarga de plantillas CSV
+- Validaciones y feedback de usuario
+
+---
+
 # Ficha Técnica - [Nombre del Proyecto]
 
 ## Descripción breve

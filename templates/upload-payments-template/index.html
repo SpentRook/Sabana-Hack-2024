@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subir Datos de Pago - Template</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1 class="page-title">Subir Datos de Pago</h1>
+            <p class="page-subtitle">Carga tu archivo con los datos de pagos para procesar</p>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Upload Area -->
+            <div class="upload-area">
+                <div class="upload-icon">
+                    <i class="fas fa-cloud-upload-alt"></i>
+                </div>
+                <h3>Arrastra tu archivo aquí</h3>
+                <p>o haz clic para seleccionar</p>
+                <input type="file" id="fileInput" accept=".csv,.xlsx,.xls" />
+                <div class="supported-formats">
+                    <small>Formatos soportados: CSV, Excel (.xlsx, .xls)</small>
+                </div>
+            </div>
+
+            <!-- File Info (shown when file is selected) -->
+            <div class="file-info" id="fileInfo" style="display: none;">
+                <div class="file-details">
+                    <i class="fas fa-file-excel"></i>
+                    <div class="file-text">
+                        <span class="file-name" id="fileName"></span>
+                        <span class="file-size" id="fileSize"></span>
+                    </div>
+                    <button class="remove-file" id="removeFile">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Action Buttons - Properly aligned to extremes -->
+            <div class="action-buttons">
+                <!-- Download Template Button (Left) -->
+                <button class="btn btn-secondary download-template-btn" id="downloadTemplate">
+                    <i class="fas fa-download"></i>
+                    <span>Descargar Plantilla</span>
+                </button>
+
+                <!-- Confirm/Upload Button (Right) -->
+                <button class="btn btn-primary confirm-btn" id="confirmUpload" disabled>
+                    <i class="fas fa-check-circle"></i>
+                    <span>Confirmar y Subir</span>
+                </button>
+            </div>
+
+            <!-- Progress Bar (shown during upload) -->
+            <div class="progress-container" id="progressContainer" style="display: none;">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+                <p class="progress-text" id="progressText">Subiendo archivo...</p>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
